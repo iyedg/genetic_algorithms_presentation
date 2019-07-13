@@ -1,0 +1,23 @@
+test_instance = [
+    {"value": 114, "weight": 582},
+    {"value": 38, "weight": 194},
+    {"value": 133, "weight": 679},
+    {"value": 95, "weight": 485},
+    {"value": 612, "weight": 396},
+    {"value": 171, "weight": 873},
+    {"value": 918, "weight": 594},
+    {"value": 408, "weight": 264},
+    {"value": 714, "weight": 462},
+    {"value": 510, "weight": 330},
+    {"value": 114, "weight": 582},
+    {"value": 76, "weight": 388},
+    {"value": 57, "weight": 291},
+    {"value": 204, "weight": 132},
+    {"value": 1020, "weight": 660},
+    {"value": 816, "weight": 528},
+    {"value": 190, "weight": 970},
+    {"value": 510, "weight": 330},
+    {"value": 114, "weight": 582},
+    {"value": 714, "weight": 462},
+]
+
