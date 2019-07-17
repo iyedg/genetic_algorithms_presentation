@@ -7,7 +7,7 @@
 
 ## Definitions
 
-"GAs are simulations of natural selection that can solve optimization problems" (GOA)
+"GAs are simulations of natural selection that can solve optimization problems" (EOA)
 
 1. A  biological  system  includes  a  population  of  individuals,  many  of which  have  the  ability  to  reproduce.
 1. The  individuals  have  a  finite  life  span.
